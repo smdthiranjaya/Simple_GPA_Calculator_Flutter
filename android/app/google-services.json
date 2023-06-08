@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570296647478",
+    "project_id": "gpaapp-9c439",
+    "storage_bucket": "gpaapp-9c439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570296647478:android:49914b9d561395542a3d97",
+        "android_client_info": {
+          "package_name": "com.example.gpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570296647478-fsg99gq9agibg73fth6m4nj13k5vaj6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbF-5b2z5alMd4SilXDTnEqObQcCNacHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570296647478-fsg99gq9agibg73fth6m4nj13k5vaj6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
